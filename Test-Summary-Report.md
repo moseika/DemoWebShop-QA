@@ -1,4 +1,4 @@
-#Project: Demo Web Shop
+# Project: Demo Web Shop
 Testing type: Manual Functional Testing
 
 Test cases executed: 17
@@ -10,7 +10,7 @@ Critical: 0
 Major: 4
 Minor: 1
 
-##Tested areas:
+## Tested areas:
 - Registration
 
 Conclusion:
